@@ -27,17 +27,17 @@ Navneet</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently a <a href="https://phoenix.tech/griffyn/" target="blank">Computer Sci and Engineering</a> student at <b> National Institute of Technology, Durgapur</b>
+- 🔭 I’m currently a `Computer Sci and Engineering` student at <b> National Institute of Technology, Durgapur</b>
 
-- 🌱 I’m currently Working on Django.
+- 🌱 I’m currently Working on `Django`.
 
-- 🤝 I’m available for freelancing/Intern.
+- 🤝 I’m available for `freelancing/Intern`.
 
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning `Django`
 
 <!--- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc) --->
 
-- 💬 Ask me about **UI/UX**
+- 💬 Ask me about `UI/UX`
 
 <!--- 📫 How to reach me **saurabhchavan052@gmail.com** -->
 
