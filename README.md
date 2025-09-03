@@ -16,20 +16,18 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Navneet</h1>
-<h3 align="center">A passionate Backend Developer and UI/UX Designer from India &#127470;&#127475</h3>
+<h3 align="center">A Cognitive Systems and Computer Science enthusiast from India &#127470;&#127475</h3>
 
 
 
-- 🔭 I’m currently a `Computer Sci and Engineering` student at <b> National Institute of Technology, Durgapur</b>
+- 🔭 I’m currently a `Cognitive Systems` Post-grade student at <b> Indian Institute of Technology, Kanpur</b>
 
-- 🌱 I’m currently Working on `Django`.
+- 🌱 I’m currently Working on `Cognitive Systems`.
 
 - 🤝 I’m available for `freelancing/Intern`.
 
-- 🌱 I’m currently learning `Django`
+- 🌱 I’m currently learning `Psychopy`
 
-
-- 💬 Ask me about `UI/UX`
 
 <h3 align="center" > Connect with me 🤝 </h3>
 
