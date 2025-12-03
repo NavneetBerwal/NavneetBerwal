@@ -47,7 +47,3 @@ Here are some ideas to get you started:
 
 </p>
 <br/>
-
-Credit: [Navneet Berwal](https://github.com/NavneetBerwal)
-
-Last Edited on: 24/04/2024
